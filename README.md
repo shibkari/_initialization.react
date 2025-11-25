@@ -122,7 +122,11 @@ npm run dev
 
 ## 🌐 Демо
 
-🔗 **Live Demo:** [Посилання буде додано після деплою]
+🔗 **Live Demo:** [https://initialization-react-epke2hnf2-shibkaris-projects.vercel.app](https://initialization-react-epke2hnf2-shibkaris-projects.vercel.app)
+
+> ✨ Переглянути робочу версію проекту онлайн!
+
+**Альтернативне посилання:** [initialization-react.vercel.app](https://initialization-react.vercel.app)
 
 ## 📤 Деплоймент
 
